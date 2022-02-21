@@ -6,13 +6,13 @@ There are three stakeholders(university, student and organization) and their var
 1. The university (Admin)
 * Create users(students)
 * issue academic certificates
-* view issued academic certificates
+* view and manage issued academic certificates
 
 2. Student
 * Receive academic certificates from university.
 * View and manage received academic certificates.
 * Share academic certificates with third party(employer).
-* accept request to employer to view certificate
+* accept request from employer to view certificates
 
 3. Organization
 *send request to view student certificate
